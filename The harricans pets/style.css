@@ -156,10 +156,11 @@ header {
 
 /* Footer */
 footer {
-  text-align: center;
-  padding: 10px;
   background: #008080;
   color: #fff;
+  text-align: center;
+  padding: 20px 10px;
+  position: relative;
 }
 
 /* WhatsApp Button */
@@ -304,6 +305,7 @@ html {
   margin-top: 10px;
   font-size: 18px;
 }
+/* Footer */
 footer {
   background: #008080;
   color: #fff;
